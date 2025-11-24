@@ -87,5 +87,6 @@ putty.exe 192.168.1.1
 
 ### Ссылки по теме
 
+- [Прошивка MikroTik RB941-2nD (hAP lite) в OpenWrt](https://global-hotspot.ru/%D0%BF%D1%80%D0%BE%D1%88%D0%B8%D0%B2%D0%BA%D0%B0-mikrotik-%D0%B2-openwrt/)
 - [Routerich AX3000 - Российский роутер с OpenWRT. Гайд по youtubeUnblock и Podkop](https://youtu.be/2hOFnEP89DE?si=ZCVW9Kdh4vynQpch)
 - [Cudy WR3000E с OpenWRT: Настройка YouTube Unblock + звонки в Discord, Telegram, WhatsApp](https://youtu.be/s-XdOlSpBYY?si=ZrNPtxM9yo9P-FIU)
