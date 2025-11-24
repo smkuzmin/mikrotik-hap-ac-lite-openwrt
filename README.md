@@ -84,3 +84,8 @@ putty.exe 192.168.1.1
 8. Если ютуб еще не заработал, то мне (провайдер Ростелеком) помогло это: **Services** -> **youtubeUnblock** -> **Configuration** -> **Default section** -> **Edit** -> **\[ \] Fake sni** -> **Save** -> **Save & Apply**.
 
 Вот и все - теперь YouTube работает без использования VPN. И еще бонусом - в YouTube не будет рекламы.
+
+### Ссылки по теме
+
+- [Routerich AX3000 - Российский роутер с OpenWRT. Гайд по youtubeUnblock и Podkop](https://youtu.be/2hOFnEP89DE?si=ZCVW9Kdh4vynQpch)
+- [Cudy WR3000E с OpenWRT: Настройка YouTube Unblock + звонки в Discord, Telegram, WhatsApp](https://youtu.be/s-XdOlSpBYY?si=ZrNPtxM9yo9P-FIU)
